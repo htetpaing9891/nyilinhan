@@ -12,7 +12,7 @@ const HomeComponent = () => {
               <p className="text-white">
                 Hi, my name is Nyi Lin Han
                 <br />
-                I’m co-founder, producer & generalist with over 6 years’
+                I’m a co-founder, producer & generalist with over 6 years’
                 experience in leading production & project management. I
                 currently work as a Producer at Green Screen Productions,
                 Myanmar.{" "}
@@ -117,15 +117,15 @@ const HomeComponent = () => {
                 Nyi Lin Han started his career in Yangon after getting his
                 bachelor degree from Oxford Brookes University. After coming
                 back to Yangon, he started working in E-commerce industries and
-                advertising agencies. Then, he moved into film industry with the
-                help of Kaung Myat Kyaw and started learning and working as a
-                producer for 4 years from the start of Green Box to Green Screen
-                which become established itself as one of Myanmar’s best video
-                production companies, delivering professional, compelling and
-                memorable films for clients in all sorts of businesses and for
-                all sorts of budgets. Today Green Screen Productions works for a
-                number of agencies, charities and individual companies
-                delivering a huge variety of contents.
+                advertising agencies. Then, he moved into film industry learning
+                and working as a producer for 4 years from the start of Green
+                Box later rebrand into Green Screen Productions. Green Screen
+                established itself as one of Myanmar’s best video production
+                companies, delivering professional, compelling and memorable
+                films for clients in all sorts of businesses and budgets. Today
+                Green Screen Productions works for a number of agencies,
+                charities and individual companies delivering a huge variety of
+                contents.
               </p>
             </div>
           </div>

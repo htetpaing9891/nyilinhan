@@ -342,6 +342,28 @@ const WorkComponent = () => {
       <section className="projects-section bg-light" id="projects">
         <div className="container px-4 px-lg-5">
           {/* <!-- Featured Project Row--> */}
+          <h3 className="text-center mb-4">Corporate Video</h3>
+          <div className="row">
+            <div className="col-lg-12">
+              <Link to="/work/4bSWdaC7b1g" className="text-decoration-none">
+                <img
+                  className="img-fluid"
+                  src="assets/img/work/work-24.jpeg"
+                  alt="..."
+                />
+                <p className="pt-2 text-black text-center fs-3">
+                  M Square Construction (Bonita Garden)
+                </p>
+                <p className="pb-2 text-black text-center fs-5">Producer</p>
+              </Link>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="projects-section bg-light" id="projects">
+        <div className="container px-4 px-lg-5">
+          {/* <!-- Featured Project Row--> */}
           <h3 className="text-center mb-4">Photoshoot</h3>
           <div
             id="portfolio-grid"
